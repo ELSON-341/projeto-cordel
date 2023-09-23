@@ -68,6 +68,7 @@ section.imagem > p {
     padding: 5px;
 }
 section#img-01 {
+    width: 98%;
     background-image: url(../imagens/joaninha-1000.jpg);
     background-position: center center;
     background-repeat: no-repeat;
